@@ -2,7 +2,7 @@
 - 👀 I’m interested in python
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on python advanced codes
-- 📫 How to reach me: will make changes once i figure it out myself!
+- 📫 How to reach me:anjanabnair9704@gmail.com 
 - 😄 Pronouns: "she"..works?
 - ⚡ Fun fact: I am as clueless as nobody ever would be
 
