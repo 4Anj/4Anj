@@ -1,8 +1,8 @@
-👋 Hi, I’m @4Anj\n
-I’m interested in python\n
-I’m currently learning C++\n
-I’m looking to collaborate on python advanced codes\n
-📫 How to reach me:anjanabnair9704@gmail.com\n
+👋 Hi, I’m @4Anj
+I’m interested in python
+I’m currently learning C++
+I’m looking to collaborate on python advanced codes
+📫 How to reach me:anjanabnair9704@gmail.com
 ⚡ Fun fact: I am as clueless as nobody ever would be
 
 <!--
