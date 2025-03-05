@@ -2,7 +2,7 @@
 
 I’m interested in python
 
-I’m currently learning C++
+I’m currently learning data science and it's applications
 
 I’m looking to collaborate on python advanced codes
 
