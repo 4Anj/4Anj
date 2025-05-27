@@ -8,7 +8,7 @@ I’m looking to collaborate on python advanced codes
 
 📫 How to reach me:anjanabnair9704@gmail.com
 
-⚡ Fun fact: I may be clueless initially but you'll see my superpower take over the next min.
+⚡ Fun fact: I may be clueless initially but you'll see me taking over multiple tasks the next min.
 
 <!--
 **4Anj/4Anj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
