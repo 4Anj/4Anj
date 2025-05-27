@@ -1,8 +1,8 @@
 👋 Hi, I’m @4Anj
 
-I’m interested in python
+I’m interested in Data Science
 
-I’m currently learning data science and it's applications
+I’m currently learning data analytics and it's applications
 
 I’m looking to collaborate on python advanced codes
 
