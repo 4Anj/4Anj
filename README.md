@@ -1,10 +1,8 @@
-👋 Hi, I’m @4Anj
+👋 Hi, I’m Anjana
+Currently doing BTech CS
+Exploring Data Science & ML.
 
-I’m interested in Data Science
-
-I’m currently learning data analytics and it's applications
-
-I’m looking to collaborate on python advanced codes
+core strenghts in Data Analytics, Database Management(MySQL), visualisations(PowerBI)
 
 📫 How to reach me:anjanabnair9704@gmail.com
 
